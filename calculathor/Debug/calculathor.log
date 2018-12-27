@@ -1,0 +1,11 @@
+﻿  BinaryOperation.cpp
+  Expression.cpp
+c:\users\greenblitz\source\repos\calculathor\calculathor\expression.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\greenblitz\source\repos\calculathor\calculathor\expression.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\greenblitz\source\repos\calculathor\calculathor\expression.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\greenblitz\source\repos\calculathor\calculathor\expression.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\greenblitz\source\repos\calculathor\calculathor\expression.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Number.cpp
+  calculathor.cpp
+  Generating Code...
+  calculathor.vcxproj -> C:\Users\GreenBlitz\source\repos\calculathor\Debug\calculathor.exe
